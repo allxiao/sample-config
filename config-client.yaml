@@ -4,3 +4,4 @@ server:
 sample:
   config:
     string: "Hello, World!"
+    integer: 42
